@@ -1,0 +1,17 @@
+Unsupervised Learning:
+
+Unsupervised learning is a type of machine learning where the model is trained on unlabeled data. The system tries to learn the underlying structure or patterns in the data without any predefined labels. It is mainly used for clustering, association, and dimensionality reduction.
+
+Key Points:
+
+* Does not require labeled data.
+* Goal: Find hidden patterns or intrinsic structures in input data.
+* Common Algorithms: K-Means, Hierarchical Clustering, DBSCAN, Principal Component Analysis (PCA), Autoencoders.
+* Applications: Customer segmentation, market basket analysis, anomaly detection, data compression.
+* Evaluation Metrics: Silhouette Score, Davies-Bouldin Index, Reconstruction Error (for dimensionality reduction).
+
+Example:
+
+* Input: Customer transaction data (items purchased, frequency, amount spent)
+* Output: Segments of similar customers
+* The model groups customers based on purchase behavior without prior knowledge of customer categories.

@@ -1,0 +1,17 @@
+Supervised Learning:
+
+Supervised learning is a type of machine learning where the model is trained on labeled data. This means that for each input in the training dataset, the correct output is already known. The model learns to map inputs to outputs and can then predict outcomes for new, unseen data.
+
+Key Points:
+
+* Requires labeled data.
+* Goal: Learn a mapping from input features to target labels.
+* Common Algorithms: Linear Regression, Logistic Regression, Decision Trees, Random Forest, Support Vector Machines (SVM), Neural Networks.
+* Applications: Spam detection, image classification, medical diagnosis, stock price prediction.
+* Evaluation Metrics: Accuracy, Precision, Recall, F1 Score, Mean Squared Error (MSE).
+
+Example:
+
+* Input: Features of a house (size, number of rooms, location)
+* Output: Price of the house
+* The model learns from past house data to predict prices of new houses.
