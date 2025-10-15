@@ -1,4 +1,4 @@
-# rag_chatbot_backend
+
 # RAG Chatbot Backend
 
 This project is a backend system for a Retrieval-Augmented Generation (RAG) chatbot. It ingests various document types (PDFs, text files, etc.), processes them into a searchable vector knowledge base, and uses a Large Language Model (LLM) to answer user queries based on the ingested content.
