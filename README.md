@@ -53,6 +53,10 @@ Multimodal RAG (PDF data)
 
 ![RAG Pipeline](./multimodal_pdf_rag.png?WT.mc_id=a)
 
+---
+
+![RAG Pipeline](./multimodal_rag2.png?WT.mc_id=a)
+
 Agentic RAG
 
 ![RAG Pipeline](./agentic_rag.png?WT.mc_id=a)
