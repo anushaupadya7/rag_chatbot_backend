@@ -36,10 +36,21 @@ rag_chatbot_backend/
 ├── requirements.txt      # Project dependencies
 └── .env                  # For storing API keys (e.g., GROQ_API_KEY)
 ```
-
+---
+Data Ingestion Pipeline
 ![RAG Pipeline](./Data_Ingestion_Pipeline.png?WT.mc_id=a)
+
+Data Retrieval Pipeline
 ![RAG Pipeline](./Data_Retrieval_Pipeline.png?WT.mc_id=a)
+
+Multimodal RAG
 ![RAG Pipeline](./RAG.png?WT.mc_id=a)
+
+Multimodal RAG (PDF data)
+![RAG Pipeline](./multimodal_rag.png?WT.mc_id=a)
+![RAG Pipeline](./multimodal_pdf_rag.png?WT.mc_id=a)
+
+---
 
 ## Getting Started
 
